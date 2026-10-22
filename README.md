@@ -41,6 +41,10 @@ NoteDiscovery is a **lightweight, self-hosted note-taking application** that put
   <a href="https://gamosoft-notediscovery-demo.hf.space"><img src="docs/demo-button.svg" alt="Try Live Demo"></a>
 </p>
 <p align="center">
+  <a href="https://repocloud.io/details/NoteDiscovery/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://railway.com/deploy/notediscovery"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="32"></a>
+  &nbsp;&nbsp;
   <a href="https://www.pikapods.com/pods?run=notediscovery"><img src="https://www.pikapods.com/static/run-button.svg" alt="Run on PikaPods"></a>
   &nbsp;&nbsp;
   <a href="https://ko-fi.com/gamosoft"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com"></a>
